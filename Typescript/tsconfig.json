@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "rootDir": "./src",
+        "outDir": "./dist"
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
+
+
+/*rootDir is where the .ts files will be, while it will be resolve to .js in the dist folder
+*/
